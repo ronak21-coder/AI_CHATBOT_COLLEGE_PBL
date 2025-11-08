@@ -1,0 +1,61 @@
+[
+{
+"id": "ev-techfest",
+"title": "Annual Tech Fest",
+"date": "2025-11-20",
+"time": "10:00 AM",
+"location": "Main Auditorium, Block A",
+"organizer": "CSE Department & Robotics Club",
+"fee": 0,
+"registration_link": "https://example.com/register/techfest",
+"tags": ["tech", "fest", "innovation", "project expo"],
+"description": "A day-long celebration of technology with project expo, coding challenge, and guest talks."
+},
+{
+"id": "ev-hackathon",
+"title": "48-hour Hackathon",
+"date": "2025-12-05",
+"time": "09:00 AM",
+"location": "Innovation Lab, Block C",
+"organizer": "Coding Club",
+"fee": 199,
+"registration_link": "https://example.com/register/hackathon",
+"tags": ["hackathon", "coding", "software", "teams"],
+"description": "Team-based hackathon focused on solving real-world problems. Cash prizes for top 3 teams."
+},
+{
+"id": "ev-mlworkshop",
+"title": "Machine Learning Workshop",
+"date": "2025-11-28",
+"time": "02:00 PM",
+"location": "Seminar Hall 2, Block B",
+"organizer": "AI/ML Club",
+"fee": 99,
+"registration_link": "https://example.com/register/ml-workshop",
+"tags": ["machine learning", "workshop", "python", "ai"],
+"description": "Hands-on session covering ML basics, model training, and evaluation in Python."
+},
+{
+"id": "ev-sportsmeet",
+"title": "Inter-College Sports Meet",
+"date": "2025-12-12",
+"time": "08:00 AM",
+"location": "Sports Ground",
+"organizer": "Sports Committee",
+"fee": 0,
+"registration_link": "https://example.com/register/sports",
+"tags": ["sports", "athletics", "football", "basketball"],
+"description": "Day of athletics and team sports. Open for all departments."
+},
+{"id": "ev-freshersparty",
+"title": "Party Organized for Freshers students",
+"date": "2026-2-10",
+"time": "07:00 PM",
+"location": "Auditorium",
+"organizer": "Cultural Club",
+"fee": 0,
+"registration_link": "https://example.com/register/freshers",
+"tags": ["freshers", "firstyear", "party", "enjoyment"],
+"description": "Day which was celebrated for freshers students."
+}
+]
