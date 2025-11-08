@@ -188,7 +188,7 @@ def generate_response(user_text: str) -> str:
     intents = detect_intents(tokens)
 
     # Small talk shortcuts
-    if any(w in tokens for w in ["hello", "hi", "hey"]):
+    if any(w in tokens for w in ["hello", "hi", "hey", "hii", "greetings"]):
         return "Hi! Ask me about college events — try 'when is the tech fest?' or 'how to register for hackathon?'"
 
     if "next" in intents:
